@@ -1,9 +1,9 @@
-<html>
+ng <html>
 <head>
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World! Welcome to DevOps CICD training</h1>
+	<h1>Checking the github page</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
