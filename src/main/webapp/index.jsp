@@ -2,7 +2,8 @@
 <head>
 <title>Hello World!</title>
 </head>
-<body>
+
+<body style="background-color:powderblue;">
 	<h1>Checking the modified github page again</h1>
 	<h7>Checking the  page </h7>
 	<p>
